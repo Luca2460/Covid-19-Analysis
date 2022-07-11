@@ -15,7 +15,7 @@ def create_sim(x):
 
     start_day = '2020-01-21'
     end_day   = '2020-06-20'
-    data_path = 'UK_Covid_cases_August18.xlsx'
+    data_path = 'UK_Covid_cases_january25.xlsx' #'UK_Covid_cases_August18.xlsx'
 
     # Set the parameters
     total_pop    = 67.86e6 # UK population size
