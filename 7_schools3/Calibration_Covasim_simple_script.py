@@ -75,6 +75,7 @@ def create_sim(x):
     s_prob_may   = 0.012
     #no change in daily symptmatic probability in this scenario
     #s_prob_june = 0.012
+    s_prob_july = 0.012  # delete me, added on Jul 7 2022 as code was not running
     t_delay       = 1.0
 
     iso_vals = [{k:0.1 for k in 'hswc'}]
